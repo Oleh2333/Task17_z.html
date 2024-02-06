@@ -1,0 +1,21 @@
+.menu i.material-icons {
+    color: blue;
+    font-size: 30px;
+}
+.d-flex-vertical-center {
+    display: flex;
+    align-items: center;
+}
+
+.card-image img {
+    width: 70px !important;
+}
+
+.page-footer{
+    width: auto;
+}
+
+.active a {
+    color: red;
+    font-weight: bold; 
+}
